@@ -22,7 +22,7 @@ add_if_missing "source $SRC_DIR/fancy_functions.sh"
 add_if_missing 'export PATH="$HOME/bin:$PATH"'
 
 # Créer dossier src si besoin
-mkdir -p ~/bin
+mkdir -p ~/src
 
 # Cloner si absent
 if [ ! -d "$SRC_DIR" ]; then
