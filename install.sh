@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-REPO_URL="https://github.com/<votre_login>/fancy_tools.git"
+REPO_URL="https://github.com/manou12906/fancy_tools.git"
 SRC_DIR="$HOME/src/fancy_tools"
 
 echo "🔧 Installation Fancy Tools..."
